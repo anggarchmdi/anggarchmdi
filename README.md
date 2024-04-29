@@ -1,7 +1,7 @@
 <h1 align="center">  Hello Everyone ! </h1> 
 
 ## 	Introduction
-- My Name is ** Johana Angga Rachmadi **.
+- My Name is **Johana Angga Rachmadi**.
 - Computer Technology student at [Universitas Teknologi Digital Indonesia](https://www.utdi.ac.id/).
 - FullStack Developer.
 - Goal : Become a successful Programmer and Become entrepreneurs.
