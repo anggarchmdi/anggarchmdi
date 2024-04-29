@@ -10,8 +10,6 @@
 <p align="left">
 <a href="https://github.com/Anggarchmdi">
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anggarchmdi&theme=tokyonight"/>
-  <br />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anggarchmdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anggarchmdi&layout=compact&langs_count=8&theme=tokyonight"/></a>
 </p>
