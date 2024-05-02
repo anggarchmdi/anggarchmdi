@@ -13,3 +13,5 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anggarchmdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anggarchmdi&layout=compact&langs_count=8&theme=tokyonight"/></a>
 </p>
+
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Anggarchmdi&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Anggarchmdi)
