@@ -41,8 +41,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggarchmdi&show_icons=true&locale=en&layout=compact" alt="anggarchmdi" /></p>
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggarchmdi&show_icons=true&locale=en&layout=compact" alt="anggarchmdi" /></p>
 
-<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anggarchmdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></p>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anggarchmdi&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anggarchmdi&" alt="anggarchmdi" /></p>
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anggarchmdi&theme=white" alt="anggarchmdi" />
+</p>
