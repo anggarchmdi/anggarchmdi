@@ -50,6 +50,3 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anggarchmdi&theme=white" alt="anggarchmdi" />
 </p>
 
-<p>
- <img height="230em" width="450em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggarchmdi&show_icons=true&locale=en&layout=compact" alt="anggarchmdi" />
-</p>
