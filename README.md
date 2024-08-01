@@ -1,6 +1,3 @@
- ![Contoh Gambar](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJzcDh3aTVodTRsOHJteDZ1bGQyY2kzMXVtdWM4bzhvdW9nOTQxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
- ![Contoh Gambar](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJzcDh3aTVodTRsOHJteDZ1bGQyY2kzMXVtdWM4bzhvdW9nOTQxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
- ![Contoh Gambar](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJzcDh3aTVodTRsOHJteDZ1bGQyY2kzMXVtdWM4bzhvdW9nOTQxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Angga Rachmadi</h1>
 
