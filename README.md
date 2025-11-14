@@ -8,19 +8,6 @@ Passionate about turning ideas into clean, efficient, and user-friendly digital 
 - 💡 Focus: Frontend & Backend Development, UI/UX Design, Database Management.
 - 🚀 Always learning: From React & Vue to Laravel &  Express.
 
-## Connect with me
-<p align="left">
-<a href="https://twitter.com/_rchmdi" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/anggarchmdi" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/jo.rchm" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
-</a>
-</p>
-
 ## Skills & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />&nbsp;&nbsp;
